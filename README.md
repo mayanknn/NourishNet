@@ -18,6 +18,17 @@ Currently, two official plugins are available:
 ![image](https://github.com/user-attachments/assets/5871884a-97bb-419e-b0a2-585373050cef)
 
 ![image](https://github.com/user-attachments/assets/b4da46c3-d6e1-456a-95c3-140d80bacbbf)
-![image](https://github.com/user-attachments/assets/54750210-b565-40b2-be20-2133c2dcd536)
+![image](https://github.com/user![System Architecture](https://github.com/user-attachments/assets/b7355ef3-cc18-4c1b-b5ce-e5c4cbd555ec)
+-attachments/assets/54750210-b565-40b2-be20-2133c2dcd536)
 
 ![image](https://github.com/user-attachments/assets/a0498de9-4395-454b-88d1-000d269f135c)
+
+
+![System Architecture](https://github.com/user-attachments/assets/72f5210c-50d9-4b9b-a80d-9f40f3a92925)
+![Flow Diagram](https://github.com/user-attachments/assets/2eccb1f8-0a63-47e3-8dc5-23fc5e68831c)
+![Database Design](https://github.com/user-attachments/assets/3e674a3d-0b9b-4337-8a0b-026f4815a04e)
+
+
+
+
+
